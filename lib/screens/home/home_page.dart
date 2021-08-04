@@ -8,7 +8,7 @@ import 'package:tudo_gostoso/style.dart';
 
 class HomePage extends StatelessWidget {
   final recipe = Recipe(
-    name: "Macarrão com queijo",
+    name: "Bolo gelado",
     photo: "assets/images/bolo.jpg",
     preparationTime: 45,
     numberOfFavorites: 212,
